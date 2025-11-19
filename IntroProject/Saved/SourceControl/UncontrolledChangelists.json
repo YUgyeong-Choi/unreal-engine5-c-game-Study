@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/9E/07K585N9E6LLCWBT9N1F1B.uasset",
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/N6/D58EJGJTDKIEVPVPQTFLPR.uasset",
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/V2/UPK58WWDZP52EYCOTDCVCI.uasset",
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/ZX/GMC6GNGILT64XVLNS51J6D.uasset",
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/C0/R741KC2W37FRIBYZSJECN9.uasset",
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/NN/DJ3HW7RKXEQA9LELEQKU46.uasset",
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/IntroProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/U3/078LLQPMMUNRWM6ETP2H46.uasset"
+			]
+		}
+	]
+}
