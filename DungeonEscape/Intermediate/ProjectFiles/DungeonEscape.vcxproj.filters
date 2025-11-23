@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\DungeonEscape.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DungeonEscape.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DungeonEscapeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\DungeonEscape">
+      <UniqueIdentifier>{EA9A2526-EFDA-3225-BF48-597FD94E671D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DungeonEscape\DungeonEscape.Build.cs">
+      <Filter>Source\DungeonEscape</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DungeonEscape\DungeonEscape.cpp">
+      <Filter>Source\DungeonEscape</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\DungeonEscape.h">
+      <Filter>Source\DungeonEscape</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\DungeonEscapeCameraManager.cpp">
+      <Filter>Source\DungeonEscape</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\DungeonEscapeCameraManager.h">
+      <Filter>Source\DungeonEscape</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\DungeonEscapeCharacter.cpp">
+      <Filter>Source\DungeonEscape</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\DungeonEscapeCharacter.h">
+      <Filter>Source\DungeonEscape</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\DungeonEscapeGameMode.cpp">
+      <Filter>Source\DungeonEscape</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\DungeonEscapeGameMode.h">
+      <Filter>Source\DungeonEscape</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\DungeonEscapePlayerController.cpp">
+      <Filter>Source\DungeonEscape</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\DungeonEscapePlayerController.h">
+      <Filter>Source\DungeonEscape</Filter>
+    </ClInclude>
+    <Filter Include="Source\DungeonEscape\Variant_Horror">
+      <UniqueIdentifier>{84694BDF-569C-335F-9563-2A1725C4BAF5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Horror\HorrorCharacter.cpp">
+      <Filter>Source\DungeonEscape\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Horror\HorrorCharacter.h">
+      <Filter>Source\DungeonEscape\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Horror\HorrorGameMode.cpp">
+      <Filter>Source\DungeonEscape\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Horror\HorrorGameMode.h">
+      <Filter>Source\DungeonEscape\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Horror\HorrorPlayerController.cpp">
+      <Filter>Source\DungeonEscape\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Horror\HorrorPlayerController.h">
+      <Filter>Source\DungeonEscape\Variant_Horror</Filter>
+    </ClInclude>
+    <Filter Include="Source\DungeonEscape\Variant_Horror\UI">
+      <UniqueIdentifier>{AB1F4689-9839-3612-90E8-F08A2939DB08}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Horror\UI\HorrorUI.cpp">
+      <Filter>Source\DungeonEscape\Variant_Horror\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Horror\UI\HorrorUI.h">
+      <Filter>Source\DungeonEscape\Variant_Horror\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\DungeonEscape\Variant_Shooter">
+      <UniqueIdentifier>{6833A302-D3BF-3F35-8AA5-D5370DE93E88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\DungeonEscape\Variant_Shooter\AI">
+      <UniqueIdentifier>{4FF3C90B-CEB4-3AF8-ADD4-A93CF70A139C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Shooter\AI\EnvQueryContext_Target.cpp">
+      <Filter>Source\DungeonEscape\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Shooter\AI\EnvQueryContext_Target.h">
+      <Filter>Source\DungeonEscape\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Shooter\AI\ShooterAIController.cpp">
+      <Filter>Source\DungeonEscape\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Shooter\AI\ShooterAIController.h">
+      <Filter>Source\DungeonEscape\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Shooter\AI\ShooterNPC.cpp">
+      <Filter>Source\DungeonEscape\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Shooter\AI\ShooterNPC.h">
+      <Filter>Source\DungeonEscape\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Shooter\AI\ShooterNPCSpawner.cpp">
+      <Filter>Source\DungeonEscape\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Shooter\AI\ShooterNPCSpawner.h">
+      <Filter>Source\DungeonEscape\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Shooter\AI\ShooterStateTreeUtility.cpp">
+      <Filter>Source\DungeonEscape\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Shooter\AI\ShooterStateTreeUtility.h">
+      <Filter>Source\DungeonEscape\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Shooter\ShooterCharacter.cpp">
+      <Filter>Source\DungeonEscape\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Shooter\ShooterCharacter.h">
+      <Filter>Source\DungeonEscape\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Shooter\ShooterGameMode.cpp">
+      <Filter>Source\DungeonEscape\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Shooter\ShooterGameMode.h">
+      <Filter>Source\DungeonEscape\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Shooter\ShooterPlayerController.cpp">
+      <Filter>Source\DungeonEscape\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Shooter\ShooterPlayerController.h">
+      <Filter>Source\DungeonEscape\Variant_Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\DungeonEscape\Variant_Shooter\UI">
+      <UniqueIdentifier>{45C47C71-3FCF-3B8C-860D-7931A6E6D725}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Shooter\UI\ShooterBulletCounterUI.cpp">
+      <Filter>Source\DungeonEscape\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Shooter\UI\ShooterBulletCounterUI.h">
+      <Filter>Source\DungeonEscape\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Shooter\UI\ShooterUI.cpp">
+      <Filter>Source\DungeonEscape\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Shooter\UI\ShooterUI.h">
+      <Filter>Source\DungeonEscape\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\DungeonEscape\Variant_Shooter\Weapons">
+      <UniqueIdentifier>{984AE659-6C7B-3812-B355-E27E3B53DA69}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Shooter\Weapons\ShooterPickup.cpp">
+      <Filter>Source\DungeonEscape\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Shooter\Weapons\ShooterPickup.h">
+      <Filter>Source\DungeonEscape\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Shooter\Weapons\ShooterProjectile.cpp">
+      <Filter>Source\DungeonEscape\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Shooter\Weapons\ShooterProjectile.h">
+      <Filter>Source\DungeonEscape\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Shooter\Weapons\ShooterWeapon.cpp">
+      <Filter>Source\DungeonEscape\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Shooter\Weapons\ShooterWeapon.h">
+      <Filter>Source\DungeonEscape\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonEscape\Variant_Shooter\Weapons\ShooterWeaponHolder.cpp">
+      <Filter>Source\DungeonEscape\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonEscape\Variant_Shooter\Weapons\ShooterWeaponHolder.h">
+      <Filter>Source\DungeonEscape\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

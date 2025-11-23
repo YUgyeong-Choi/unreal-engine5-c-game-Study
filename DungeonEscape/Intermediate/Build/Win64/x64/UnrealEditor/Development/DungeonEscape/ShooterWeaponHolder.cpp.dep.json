@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\desktop\\unreal-engine5-c-game-study\\dungeonescape\\source\\dungeonescape\\variant_shooter\\weapons\\shooterweaponholder.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\desktop\\unreal-engine5-c-game-study\\dungeonescape\\intermediate\\build\\win64\\x64\\dungeonescapeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\desktop\\unreal-engine5-c-game-study\\dungeonescape\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonescape\\definitions.dungeonescape.h",
+            "c:\\users\\user\\desktop\\unreal-engine5-c-game-study\\dungeonescape\\source\\dungeonescape\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "c:\\users\\user\\desktop\\unreal-engine5-c-game-study\\dungeonescape\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonescape\\uht\\shooterweaponholder.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

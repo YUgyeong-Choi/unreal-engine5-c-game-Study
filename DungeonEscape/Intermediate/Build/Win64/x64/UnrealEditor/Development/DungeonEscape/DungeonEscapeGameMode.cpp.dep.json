@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\desktop\\unreal-engine5-c-game-study\\dungeonescape\\source\\dungeonescape\\dungeonescapegamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\desktop\\unreal-engine5-c-game-study\\dungeonescape\\intermediate\\build\\win64\\x64\\dungeonescapeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\desktop\\unreal-engine5-c-game-study\\dungeonescape\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonescape\\definitions.dungeonescape.h",
+            "c:\\users\\user\\desktop\\unreal-engine5-c-game-study\\dungeonescape\\source\\dungeonescape\\dungeonescapegamemode.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\user\\desktop\\unreal-engine5-c-game-study\\dungeonescape\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonescape\\uht\\dungeonescapegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
