@@ -1,2 +1,3 @@
-2025/11/23-18:34:29.141 dc28 Creating DB C:\Users\user\Desktop\unreal-engine5-c-game-Study\DungeonEscape\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2025/11/23-18:34:29.158 dc28 Reusing MANIFEST C:\Users\user\Desktop\unreal-engine5-c-game-Study\DungeonEscape\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/11/23-18:39:52.870 db98 Reusing MANIFEST C:\Users\user\Desktop\unreal-engine5-c-game-Study\DungeonEscape\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/11/23-18:39:52.873 db98 Recovering log #3
+2025/11/23-18:39:52.874 db98 Reusing old log C:\Users\user\Desktop\unreal-engine5-c-game-Study\DungeonEscape\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
