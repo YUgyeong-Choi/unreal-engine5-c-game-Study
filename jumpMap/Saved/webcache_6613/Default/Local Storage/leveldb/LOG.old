@@ -1,2 +1,3 @@
-2025/11/19-16:44:45.590 380c Creating DB C:\Users\user\Desktop\unreal-engine5-c-game-Study\jumpMap\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2025/11/19-16:44:45.649 380c Reusing MANIFEST C:\Users\user\Desktop\unreal-engine5-c-game-Study\jumpMap\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/20-17:26:43.525 11970 Reusing MANIFEST C:\Users\user\Desktop\unreal-engine5-c-game-Study\jumpMap\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/20-17:26:43.532 11970 Recovering log #3
+2025/11/20-17:26:43.536 11970 Reusing old log C:\Users\user\Desktop\unreal-engine5-c-game-Study\jumpMap\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 

@@ -6,7 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/jumpMap/Content/TestLevel.umap",
-				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/jumpMap/Content/MyStuff/TestLevel.umap"
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/jumpMap/Content/MyStuff/TestLevel.umap",
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/jumpMap/Content/MyStuff/BP_MovingPlatform.uasset",
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/jumpMap/Content/MyStuff/BP_MovingPlatform2.uasset",
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/jumpMap/Content/MyStuff/Asian_Village_Demo.umap",
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/jumpMap/Content/MyStuff/MainLevel.umap",
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/jumpMap/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/user/Desktop/unreal-engine5-c-game-Study/jumpMap/Content/MyStuff/BP_MovingPlatform3.uasset"
 			]
 		}
 	]

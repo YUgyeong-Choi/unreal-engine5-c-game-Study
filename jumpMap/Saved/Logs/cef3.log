@@ -1,6 +1,6 @@
-[80244:76860:1119/164904.383:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[80244:23328:1119/164904.482:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[80244:76860:1119/164904.556:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[80244:76860:1119/164910.726:ERROR:device_event_log_impl.cc(196)] [16:49:10.722] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
-[80244:81528:1119/164911.022:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[80244:76860:1119/172242.241:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[10360:18812:1123/180512.051:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10360:27240:1123/180512.153:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[10360:18812:1123/180512.238:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10360:18812:1123/180517.953:ERROR:device_event_log_impl.cc(196)] [18:05:17.410] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[10360:81128:1123/180519.486:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10360:18812:1123/182948.457:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
